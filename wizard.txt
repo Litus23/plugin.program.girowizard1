@@ -1,0 +1,5 @@
+name="Girowizard"
+url="https://www.dropbox.com/s/mnmnaxxyqx7d2fg/kodiwizard.zip?dl=1"
+img="https://girowizard.000webhostapp.com/?dir=girowizard/icon.png"
+fanart="https://girowizard.000webhostapp.com/?dir=girowizard/fanart.jpg"
+description="Tu Wizard"
